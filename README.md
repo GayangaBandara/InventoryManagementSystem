@@ -36,7 +36,7 @@ Key Entities
      - Create and manage orders.
      - Update order statuses.
 
-4. Customer
+3. Customer
    - What it Represents: Customers purchasing products.
    - Attributes:
      - Customer ID
@@ -46,7 +46,7 @@ Key Entities
      - Manage customer records and order histories.
 
 
-3. Supplier
+4. Supplier
    - What it Represents: Companies or individuals providing products.
    - Attributes:
      - Supplier ID
