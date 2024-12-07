@@ -1,5 +1,3 @@
-Here’s a detailed **`README.md`** file for your **Inventory Management System** project:
-
 Inventory Management System
 
 What It Does
