@@ -36,6 +36,16 @@ Key Entities
      - Create and manage orders.
      - Update order statuses.
 
+4. Customer
+   - What it Represents: Customers purchasing products.
+   - Attributes:
+     - Customer ID
+     - Name
+     - Contact Information
+   - Functions:
+     - Manage customer records and order histories.
+
+
 3. Supplier
    - What it Represents: Companies or individuals providing products.
    - Attributes:
@@ -44,3 +54,4 @@ Key Entities
      - Contact Information
    - Functions:
      - Maintain supplier records for procurement.
+
