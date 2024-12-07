@@ -35,3 +35,12 @@ Key Entities
    - Functions:
      - Create and manage orders.
      - Update order statuses.
+
+3. Supplier
+   - What it Represents: Companies or individuals providing products.
+   - Attributes:
+     - Supplier ID
+     - Name
+     - Contact Information
+   - Functions:
+     - Maintain supplier records for procurement.
