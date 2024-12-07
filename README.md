@@ -73,3 +73,23 @@ Key Entities
      - Assign tasks to other admins.
      - Generate and review reports.
      - Oversee system operations.
+
+7. Task
+   - What it Represents: Assignments or actions delegated to admins.
+   - Attributes:
+     - Task ID
+     - Description
+     - Assigned By
+   - Functions:
+     - Track progress of administrative tasks.
+
+ 8. NotificationService
+   - What it Represents: Communication tool for system alerts.
+   - Attributes:
+     - Notification ID
+     - Message Content
+   - Functions:
+     - Send notifications for:
+       - Low stock alerts.
+       - Order updates.
+       - Task assignments.
