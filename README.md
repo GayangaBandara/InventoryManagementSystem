@@ -55,3 +55,21 @@ Key Entities
    - Functions:
      - Maintain supplier records for procurement.
 
+5. Category
+   - What it Represents: Grouping of products into logical categories.
+   - Attributes:
+     - Category ID
+     - Name
+   - Functions:
+     - Organize products for easy navigation and filtering.
+
+6. Admin
+   - What it Represents: Users with full control over the system.
+   - Attributes:
+     - Admin ID
+     - Username
+     - Email
+   - Functions:
+     - Assign tasks to other admins.
+     - Generate and review reports.
+     - Oversee system operations.
