@@ -125,3 +125,4 @@ Key Entities
   - Manufacturers: Track raw materials and finished goods, ensuring production consistency.
 
   This detailed explanation covers the system’s functionalities and key entities, making it easier for stakeholders to understand its purpose and benefits.
+  
