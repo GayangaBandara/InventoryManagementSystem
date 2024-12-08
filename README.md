@@ -93,3 +93,35 @@ Key Entities
        - Low stock alerts.
        - Order updates.
        - Task assignments.
+  9. Report
+    - What it Represents: Detailed summaries of inventory and operational data.
+    - Attributes**:
+      - Report ID
+      - Content
+    - Functions:
+      - Generate reports on stock levels, sales, and performance.
+      - Export reports in multiple formats for analysis.
+      
+  System Features
+  - Real-Time Inventory Tracking: Monitor stock levels and receive alerts for low inventory.
+  - Order Management: Simplify the creation, tracking, and updating of orders.
+  - Supplier and Customer Management: Keep comprehensive records of stakeholders.
+  - Reporting and Analytics: Generate insightful reports to aid business decisions.
+  - Notifications: Get updates on critical system events.
+  - Category Filters: Organize products by categories for better management.
+  - User-Friendly Interface: An intuitive design that’s easy to navigate for all users.
+
+  How It Works
+  1. Adding Products: Admins can input product details, assign them to categories, and track their stock levels.
+  2. Creating Orders: Orders can be created for customers or suppliers, linking them to specific products and quantities.
+  3. Managing Suppliers and Customers: Maintain records for easy access during order creation or reporting.
+  4. Receiving Notifications: Admins are alerted about tasks, low stock, and critical updates.
+  5. Generating Reports: Create reports for inventory trends, sales data, and task performance.
+
+  Use Cases
+  - Retail Stores: Manage inventory, suppliers, and customer orders efficiently.
+  - Warehouses: Monitor stock levels, automate reordering, and track product locations.
+  - E-Commerce: Integrate with online platforms to sync inventory and orders.
+  - Manufacturers: Track raw materials and finished goods, ensuring production consistency.
+
+  This detailed explanation covers the system’s functionalities and key entities, making it easier for stakeholders to understand its purpose and benefits.
